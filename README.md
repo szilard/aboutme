@@ -1,4 +1,4 @@
-!(https://avatars3.githubusercontent.com/u/844827?s=100&v=4)
+!(headshot120px.jpeg)
 
 (pronounce Szilard as see-lard)
 
