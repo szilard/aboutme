@@ -1,3 +1,5 @@
+!(https://avatars3.githubusercontent.com/u/844827?s=100&v=4)
+
 (pronounce Szilard as see-lard)
 
 My bio in a few words: physics PhD, chief (data) scientist, meetup organizer, (visiting) professor, machine learning benchmarks
