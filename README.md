@@ -1,4 +1,4 @@
-![](headshot120px.jpeg)
+![headshot](headshot120px.jpeg)
 
 (pronounce Szilard as see-lard)
 
