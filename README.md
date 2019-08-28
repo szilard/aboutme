@@ -1,4 +1,3 @@
-**Szilard Pafka**
 (pronounce Szilard as see-lard)
 
 My bio in a few words: physics PhD, chief (data) scientist, meetup organizer, (visiting) professor, machine learning benchmarks, conference speaker
