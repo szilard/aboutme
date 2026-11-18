@@ -6,10 +6,10 @@ My bio in a few words: physics PhD, chief (data/AI) scientist, meetup organizer,
 
 Bio in a few sentences (e.g. for conference talks): [see here](https://github.com/szilard/bio/blob/master/README.md).
 
-I'm probably mostly known for my [machine learning benchmarks](https://github.com/szilard/benchm-ml) (pretty much the only publicly available independent/unbiased benchmark of open source general ML software) and for founding/running the first and the largest [data meetups in Los Angeles](http://datascience.la/).
+I'm probably mostly known for my [machine learning benchmarks](https://github.com/szilard/benchm-ml) (at the time, ~2015, pretty much the only publicly available independent/unbiased benchmark of open source general ML software) and for founding/running the first and the largest [data meetups in Los Angeles](https://datasciencela.github.io/).
 
 My public projects (e.g. the machine learning benchmarks mentioned above or the material for the DS/ML courses I've been teaching at 2 universities) are [here on github](https://github.com/szilard).
 
-Leveraging my 25+ years of experience in the data/analytics field, I've been speaking a lot at DS/ML conferences and meetups, see some of my [talks (video recording) here](https://github.com/szilard/talks-main/blob/master/README.md). If you like them, you are welcome to invite me to speak at your event.
+Leveraging my 30+ years of experience in the data/analytics field, I've been speaking a lot at DS/ML conferences and meetups, see some of my [talks (video recording) here](https://github.com/szilard/talks-main/blob/master/README.md). If you like them, you are welcome to invite me to speak at your event.
 
 Talk to me on twitter/X (I'm [@SzilardPafka](https://x.com/SzilardPafka) and post of course mostly about DS/ML), or connect with me on [LinkedIn here](https://www.linkedin.com/in/szilard/) (also find a short list of my qualifications/kind of a brief resume over there).
